@@ -1,0 +1,12 @@
+.expences{
+    background-color: rgb(38, 63, 92);
+    width: 80%;
+    margin: 100px auto;
+    height: 60vh;
+    padding: 20px;
+    overflow: scroll;
+
+    
+}
+
+::-webkit-scrollbar{display:none;}

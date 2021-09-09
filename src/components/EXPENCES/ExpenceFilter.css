@@ -1,0 +1,29 @@
+.expence_filter{
+    height: 10vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 2rem;
+    align-items: center;
+    font-size: 1.2rem;
+    
+
+}
+select{
+    background-color: rgb(69, 103, 214);
+    padding: 0.5rem 2rem;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    font-size: 1.2rem;
+
+
+}
+option {
+    background-color: rgb(30, 53, 180);
+    padding: 0.5rem 2rem;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+
+}
